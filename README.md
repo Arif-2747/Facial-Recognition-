@@ -78,5 +78,5 @@ Built as the computer vision component of a 3-month AI internship at SmartED Inn
 - `dlib` (installed automatically with `face_recognition`)
 
 
-  **NOTE**
+##  **NOTE**
 Please download the other .caffemodel files from the GitHub repository mentioned above.
