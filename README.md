@@ -14,7 +14,7 @@ To keep the frame rate usable, the system runs face recognition every 5 frames a
 
 | File | Purpose |
 |------|---------|
-| `Face recognition 4.py` | Main script |
+| `Face recognition.py` | Main script |
 | `age_deploy.prototxt` | Age model architecture |
 | `age_net.caffemodel` | Age model weights (~45MB, requires Git LFS) |
 | `gender_deploy.prototxt` | Gender model architecture |
@@ -76,3 +76,7 @@ Built as the computer vision component of a 3-month AI internship at SmartED Inn
 - `face_recognition`
 - `numpy`
 - `dlib` (installed automatically with `face_recognition`)
+
+
+  **NOTE**
+Please download the other .caffemodel files from the GitHub repository mentioned above.
